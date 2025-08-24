@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/STAKES_LOGO.png</file>
+    </qresource>
+</RCC>
